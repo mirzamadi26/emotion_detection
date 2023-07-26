@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818530288442",
+    "project_id": "bloclesson",
+    "storage_bucket": "bloclesson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818530288442:android:8de51acfd8dcc59a2d8603",
+        "android_client_info": {
+          "package_name": "com.example.therapyx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818530288442-vbm1mvf1q0ripm0itaukvi6kjh7b6080.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.therapyx",
+            "certificate_hash": "5cbff50f744e3295e9f52065dbc652ae0578aebe"
+          }
+        },
+        {
+          "client_id": "818530288442-186rkl6qbstgkbm1t5e935ebqhik7cem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Bo7xUnLQg35EBMdKo52ehzQ58aUllE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818530288442-186rkl6qbstgkbm1t5e935ebqhik7cem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

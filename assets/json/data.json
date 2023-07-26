@@ -1,0 +1,87 @@
+[
+  {
+    "expression": "Happy",
+    "image": "assets/image/happy.png",
+    "quotation": [
+      "Happiness is not the absence of problems, it’s the ability to deal with them.",
+      "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.",
+      "A great obstacle to happiness is to expect too much happiness"
+    ],
+    "audio": "assets/audio/happy.mpeg",
+    "video": "https://www.youtube.com/watch?v=-5tNYkN2p7c",
+    "holy_quran": {
+      "verse": "2.25",
+      "arabic": "وَ بَشِّرِ الَّذِیۡنَ اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ اَنَّ لَہُمۡ جَنّٰتٍ تَجۡرِیۡ مِنۡ تَحۡتِہَا الۡاَنۡہٰرُ ؕ  کُلَّمَا رُزِقُوۡا مِنۡہَا مِنۡ ثَمَرَۃٍ رِّزۡقًا ۙ قَالُوۡا ہٰذَا الَّذِیۡ رُزِقۡنَا مِنۡ قَبۡلُ ۙ وَ اُتُوۡا بِہٖ مُتَشَابِہًا ؕ وَ لَہُمۡ فِیۡہَاۤ اَزۡوَاجٌ مُّطَہَّرَۃٌ ٭ۙ وَّ ہُمۡ فِیۡہَا خٰلِدُوۡنَ",
+      "urdu": "اور ایمان والوں اور نیک عمل کرنے والوں کو  ان جنتوں کی خوشخبریاں دو جن کے نیچے نہریں بہہ رہی ہیں ۔  جب کبھی وہ پھلوں کا رزق دئیے جائیں گے اور ہم شکل لائے جائیں گے تو کہیں گے یہ وہی ہے جو ہم اس سے پہلے دئیے گئے تھے  اور ان کے لئے بیویاں ہیں صاف  ستھری اور وہ ان جنتوں میں ہمیشہ رہنے والے ہیں ",
+      "english": "And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, \"This is what we were provided with before.\" And it is given to them in likeness. And they will have therein purified spouses, and they will abide therein eternally."
+    }
+  },
+  {
+    "expression": "Sad",
+    "image": "assets/image/sad.png",
+    "quotation": [
+      "We must understand that sadness is an ocean, and sometimes we drown, while other days we are forced to swim.",
+      "The walls we build around us to keep sadness out also keeps out the joy.",
+      "There are moments when I wish I could roll back the clock and take all the sadness away, but I have the feeling that if I did, the joy would be gone as well."
+    ],
+    "audio": "assets/audio/sad.mpeg",
+    "video": "https://www.youtube.com/watch?v=UrfpkvvRTns",
+    "holy_quran": {
+      "verse": "11.123",
+      "arabic": "وَ لِلّٰہِ غَیۡبُ السَّمٰوٰتِ وَ الۡاَرۡضِ وَ اِلَیۡہِ یُرۡجَعُ الۡاَمۡرُ کُلُّہٗ  فَاعۡبُدۡہُ وَ تَوَکَّلۡ عَلَیۡہِ ؕ وَ مَا رَبُّکَ بِغَافِلٍ عَمَّا تَعۡمَلُوۡنَ",
+      "urdu": "زمینوں اور آسمانوں کا علم غیب اللہ تعالٰی ہی کو ہے  تمام معاملات کا رجوع بھی اسی کی جانب ہے ،  پس تجھے اسی کی عبادت کرنی چاہیے اور اسی پر بھروسہ رکھنا چاہیے اور تم جو کچھ کرتے ہو اس سے اللہ تعالٰی بے خبر نہیں",
+      "english": "And to Allah belong the unseen [aspects] of the heavens and the earth and to Him will be returned the matter, all of it, so worship Him and rely upon Him. And your Lord is not unaware of that which you do."
+    }
+  },
+  {
+    "expression": "Angry",
+    "image": "assets/image/angry.png",
+    "quotation": [
+      "Anger makes you smaller, while forgiveness forces you to grow beyond what you were.",
+      "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.",
+      "Do not let your anger lead to hatred, as you will hurt yourself more than you would the other."
+    ],
+    "audio": "assets/audio/angry.mpeg",
+    "video": "https://www.youtube.com/watch?v=BWW-5Q_EzKM",
+    "holy_quran": {
+      "verse": "42.37",
+      "arabic": "وَ الَّذِیۡنَ یَجۡتَنِبُوۡنَ کَبٰٓئِرَ الۡاِثۡمِ وَ الۡفَوَاحِشَ وَ اِذَا مَا غَضِبُوۡا ہُمۡ یَغۡفِرُوۡنَ",
+      "urdu": "اور کبیرہ گناہوں سے اور بے حیائیوں سے بچتے ہیں اور غصے کے وقت  ( بھی )  معاف کر دیتے ہیں",
+      "english": "And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, \"This is what we were provided with before.\" And it is given to them in likeness. And they will have therein purified spouses, and they will abide therein eternally."
+    }
+  },
+  {
+    "expression": "Surprise",
+    "image": "assets/image/surprise.png",
+    "quotation": [
+      "Don't tell people how to do things, tell them what to do and let them surprise you with their results.",
+      "What a lovely surprise to finally discover how unlonely being alone can be.",
+      "If you don't take an opponent serious, they surprise you."
+    ],
+    "audio": "assets/audio/surprise.mpeg",
+    "video": "https://www.youtube.com/watch?v=wQyB_JtkK6Q",
+    "holy_quran": {
+      "verse": "21.30",
+      "arabic": "اَوَ لَمۡ  یَرَ الَّذِیۡنَ  کَفَرُوۡۤا  اَنَّ  السَّمٰوٰتِ وَ الۡاَرۡضَ کَانَتَا رَتۡقًا فَفَتَقۡنٰہُمَا ؕ وَ جَعَلۡنَا مِنَ الۡمَآءِ کُلَّ  شَیۡءٍ حَیٍّ ؕ اَفَلَا یُؤۡمِنُوۡنَ",
+      "urdu": "کیا کافر لوگوں نے یہ نہیں دیکھا  کہ آسمان و زمین باہم ملے جلے تھے پھر ہم نے انہیں جدا کیا  اور ہر زندہ چیز کو ہم نے پانی سے پیدا کیا   ، کیا یہ لوگ پھر بھی ایمان نہیں لاتے؟",
+      "english": "Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them and made from water every living thing? Then will they not believe?"
+    }
+  },
+  {
+    "expression": "Depress",
+    "image": "assets/image/depress.png",
+    "quotation": [
+      "You say you’re ‘depressed’ – all I see is resilience. You are allowed to feel messed up and inside out. It doesn’t mean you’re defective – it just means you’re human.",
+      "People who have never dealt with depression think it’s just being sad or being in a bad mood. That’s not what depression is for me; it’s falling into a state of grayness and numbness.",
+      "A big part of depression is feeling really lonely, even if you’re in a room full of a million people."
+    ],
+    "audio": "assets/audio/depress.mpeg",
+    "video": "https://www.youtube.com/watch?v=g-jwWYX7Jlo",
+    "holy_quran": {
+      "verse": "14.7",
+      "arabic": "وَ  اِذۡ  قَالَ مُوۡسٰی لِقَوۡمِہِ اذۡکُرُوۡا نِعۡمَۃَ اللّٰہِ عَلَیۡکُمۡ  اِذۡ  اَنۡجٰکُمۡ مِّنۡ اٰلِ فِرۡعَوۡنَ یَسُوۡمُوۡنَکُمۡ سُوۡٓءَ الۡعَذَابِ وَ یُذَبِّحُوۡنَ  اَبۡنَآءَکُمۡ وَ یَسۡتَحۡیُوۡنَ نِسَآءَکُمۡ ؕ وَ فِیۡ  ذٰلِکُمۡ بَلَآءٌ  مِّنۡ رَّبِّکُمۡ  عَظِیۡمٌ",
+      "urdu": "اور جب تمہارے پروردگار نے تمہیں آگاہ  کر دیا کہ اگر تم شکرگزاری کرو گے تو بیشک میں تمہیں زیادہ  دونگا اور اگر تم ناشکری کرو گے تو یقیناً میرا عذاب بہت سخت ہے",
+      "english": "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe."
+    }
+  }
+]
